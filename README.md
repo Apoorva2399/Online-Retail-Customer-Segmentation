@@ -26,7 +26,9 @@ visual inspection of dendogram resulting from Hierarchical Clustering .
 validate the inter-cluster separation and intra-cluster similarity.
  
 ## Conclusion :
-* Here are the number of clusters obtained
+* Here are the final number of clusters obtained .
+                 ![Screenshot (20)](https://user-images.githubusercontent.com/81186352/122783863-92546600-d2cf-11eb-888d-054214faf04e.png)
+
 
 
 
